@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Milk Tea",
+    "ingredients": ["milk", "tea", "sugar"],
+    "steps": [
+      "Boil milk with a little water.",
+      "Add tea leaves and simmer for 2 to 3 minutes.",
+      "Add sugar to taste.",
+      "Strain and serve hot."
+    ]
+  },
+  {
+    "title": "Maggi Noodles",
+    "ingredients": ["maggi", "water"],
+    "steps": [
+      "Boil water in a pan.",
+      "Add maggi and tastemaker.",
+      "Cook for 2 minutes until soft.",
+      "Serve hot."
+    ]
+  },
+  {
+    "title": "Masala Maggi",
+    "ingredients": ["maggi", "onion", "tomato", "water"],
+    "steps": [
+      "Saute chopped onion and tomato for 2 minutes.",
+      "Add water and bring it to a boil.",
+      "Add maggi and tastemaker.",
+      "Cook until the noodles are ready."
+    ]
+  },
+  {
+    "title": "Vegetable Salad Bowl",
+    "ingredients": ["tomato", "onion", "carrot", "cucumber"],
+    "steps": [
+      "Wash and chop all vegetables.",
+      "Combine them in a bowl.",
+      "Season with salt, pepper, and lemon if available.",
+      "Serve fresh."
+    ]
+  },
+  {
+    "title": "Sauteed Veg Mix",
+    "ingredients": ["broccoli", "carrot", "onion"],
+    "steps": [
+      "Heat a little oil in a pan.",
+      "Add onion and cook until soft.",
+      "Add broccoli and carrot and cook until tender.",
+      "Season and serve warm."
+    ]
+  },
+  {
+    "title": "Apple Milk Smoothie",
+    "ingredients": ["apple", "milk", "sugar"],
+    "steps": [
+      "Chop the apple into small pieces.",
+      "Blend apple with milk and sugar.",
+      "Pour into a glass and serve chilled."
+    ]
+  },
+  {
+    "title": "Fruit Bowl",
+    "ingredients": ["apple", "banana", "orange"],
+    "steps": [
+      "Peel and chop the fruits.",
+      "Mix everything in a bowl.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "title": "Paneer Bhurji",
+    "ingredients": ["paneer", "onion", "tomato"],
+    "steps": [
+      "Saute onion and tomato in a pan.",
+      "Crumble paneer into the pan.",
+      "Cook for a few minutes with salt and spices.",
+      "Serve hot."
+    ]
+  },
+  {
+    "title": "Bread Omelette",
+    "ingredients": ["bread", "egg", "onion"],
+    "steps": [
+      "Beat eggs with chopped onion and seasoning.",
+      "Cook the egg mixture on a pan.",
+      "Serve with bread."
+    ]
+  },
+  {
+    "title": "Tomato Onion Sandwich",
+    "ingredients": ["bread", "tomato", "onion"],
+    "steps": [
+      "Layer chopped tomato and onion between bread slices.",
+      "Toast if desired.",
+      "Serve warm."
+    ]
+  }
+]
